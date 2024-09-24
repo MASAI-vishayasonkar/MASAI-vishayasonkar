@@ -1,3 +1,5 @@
+![Blue Grey Corporate Illustrated Collaboration LinkedIn Banner](https://github.com/user-attachments/assets/08af61c8-6717-4dcf-a2c3-97b693dbfa56)
+
 <h1 align="center">Hi 👋, I'm Vishaya Sonkar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
