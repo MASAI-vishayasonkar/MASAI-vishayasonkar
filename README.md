@@ -6,7 +6,7 @@ Creating things that live on the internet is a passion. A passionate Developer �
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=uttammane1&label=Profile%20views&color=0e75b6&style=flat" alt="uttammane1" />
+<img src="https://komarev.com/ghpvc/?username=MASAI-vishayasonkar&label=Profile%20views&color=0e75b6&style=flat" alt="vishayasonkar" />
 </div>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
@@ -20,16 +20,15 @@ Creating things that live on the internet is a passion. A passionate Developer �
 <br><br>
 👨‍💻 Know more about me <a href="https://portfolio-eta-blond-76.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
-⚡ How to reach me <a href="mailto:uttammaneofficial@gmail.com" style="color:rgb(250, 111, 50);">uttammaneofficial@gmail.com</a>
+⚡ How to reach me <a href="mailto:sonkarvishaya1027@gmail.com" style="color:rgb(250, 111, 50);">sonkarvishaya1027@gmail.com</a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <div align="center">
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/uttam-mane-036252291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
-<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
-<a href="https://x.com/uttammane175677"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
+<a href="https://www.linkedin.com/in/vishaya-sonkar-3172182b9/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://instagram.com/vishayasonkar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
